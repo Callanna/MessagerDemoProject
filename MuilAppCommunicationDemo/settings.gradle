@@ -1,0 +1,3 @@
+rootProject.name = "MuilAppCommunicationDemo"
+include ':app'
+include ':otherapp'
